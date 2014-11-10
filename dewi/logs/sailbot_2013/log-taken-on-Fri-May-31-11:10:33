@@ -1,0 +1,562 @@
+time=1369998643 bhead=81 wind=40 lat=52.4157983333 lon=-4.06521666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0 rpos=180.0 whead=0 distance=0 speed=0.76 thead=0 tdist=0
+time=1369998644 bhead=81 wind=40 lat=52.4157683333 lon=-4.06525333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=80.0 distance=337.818606823 speed=1.54 thead=0 tdist=0
+time=1369998645 bhead=81 wind=40 lat=52.4157616667 lon=-4.06527166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=80.0 distance=340.831578865 speed=1.26 thead=0 tdist=0
+time=1369998647 bhead=81 wind=40 lat=52.4157516667 lon=-4.06529 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=79.0 distance=342.183968577 speed=1.18 thead=0 tdist=0
+time=1369998648 bhead=81 wind=40 lat=52.415735 lon=-4.06530666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=79.0 distance=343.602602922 speed=1.85 thead=0 tdist=0
+time=1369998649 bhead=81 wind=40 lat=52.4157333333 lon=-4.065315 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=79.0 distance=345.046387782 speed=1.36 thead=0 tdist=0
+time=1369998650 bhead=81 wind=40 lat=52.4157283333 lon=-4.06530833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=175.0 whead=79.0 distance=345.635368662 speed=1.35 thead=0 tdist=0
+time=1369998651 bhead=81 wind=40 lat=52.415725 lon=-4.065305 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=175.0 whead=79.0 distance=345.292944716 speed=1.29 thead=0 tdist=0
+time=1369998653 bhead=81 wind=41 lat=52.4157216667 lon=-4.06529666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=79.0 distance=345.1392828 speed=1.60 thead=0 tdist=0
+time=1369998654 bhead=81 wind=40 lat=52.4157166667 lon=-4.06528833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=79.0 distance=344.653200796 speed=1.54 thead=0 tdist=0
+time=1369998655 bhead=82 wind=40 lat=52.4157233333 lon=-4.06526833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=79.0 distance=344.202590273 speed=0.05 thead=0 tdist=0
+time=1369998656 bhead=81 wind=40 lat=52.415725 lon=-4.065265 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=79.0 distance=342.732317797 speed=0.50 thead=0 tdist=0
+time=1369998657 bhead=81 wind=40 lat=52.41573 lon=-4.06525333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=79.0 distance=342.475811694 speed=0.55 thead=0 tdist=0
+time=1369998659 bhead=81 wind=40 lat=52.41573 lon=-4.06525333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=79.0 distance=341.595648807 speed=0.84 thead=0 tdist=0
+time=1369998660 bhead=81 wind=40 lat=52.4157316667 lon=-4.06524833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=79.0 distance=341.595648807 speed=0.57 thead=0 tdist=0
+time=1369998661 bhead=86 wind=41 lat=52.4157566667 lon=-4.06524166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=79.0 distance=341.228365089 speed=0.71 thead=0 tdist=0
+time=1369998662 bhead=81 wind=41 lat=52.4157583333 lon=-4.06525166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=79.0 distance=340.280550132 speed=0.41 thead=0 tdist=0
+time=1369998663 bhead=81 wind=41 lat=52.4157566667 lon=-4.06526333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=79.0 distance=340.914747613 speed=0.57 thead=0 tdist=0
+time=1369998665 bhead=81 wind=41 lat=52.415765 lon=-4.065265 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=79.0 distance=341.725651899 speed=0.31 thead=0 tdist=0
+time=1369998666 bhead=81 wind=40 lat=52.415765 lon=-4.06527 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=175.0 whead=79.0 distance=341.674509907 speed=0.18 thead=0 tdist=0
+time=1369998667 bhead=81 wind=40 lat=52.4157783333 lon=-4.06526833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=79.0 distance=342.008177484 speed=0.48 thead=0 tdist=0
+time=1369998668 bhead=81 wind=40 lat=52.4157866667 lon=-4.06526666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=80.0 distance=341.642456673 speed=0.41 thead=0 tdist=0
+time=1369998669 bhead=81 wind=40 lat=52.41579 lon=-4.06526666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=80.0 distance=341.375194196 speed=0.72 thead=0 tdist=0
+time=1369998671 bhead=81 wind=40 lat=52.4158016667 lon=-4.06525333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=80.0 distance=341.313480408 speed=0.57 thead=0 tdist=0
+time=1369998672 bhead=82 wind=40 lat=52.4158116667 lon=-4.06525333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=80.0 distance=340.209102649 speed=0.53 thead=0 tdist=0
+time=1369998673 bhead=81 wind=40 lat=52.4158116667 lon=-4.06524 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=80.0 distance=340.030014684 speed=1.04 thead=0 tdist=0
+time=1369998674 bhead=81 wind=40 lat=52.41581 lon=-4.065225 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=80.0 distance=339.138051776 speed=1.09 thead=0 tdist=0
+time=1369998675 bhead=81 wind=40 lat=52.4158116667 lon=-4.06521333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=80.0 distance=338.164448105 speed=0.85 thead=0 tdist=0
+time=1369998677 bhead=81 wind=40 lat=52.4158183333 lon=-4.06522 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=80.0 distance=337.354332911 speed=0.49 thead=0 tdist=0
+time=1369998678 bhead=81 wind=40 lat=52.4158283333 lon=-4.06522833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=80.0 distance=337.682036504 speed=1.02 thead=0 tdist=0
+time=1369998679 bhead=81 wind=40 lat=52.41584 lon=-4.065235 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=80.0 distance=337.682036504 speed=1.10 thead=0 tdist=0
+time=1369998680 bhead=81 wind=40 lat=52.4158566667 lon=-4.06523 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=81.0 distance=338.313617705 speed=1.07 thead=0 tdist=0
+time=1369998681 bhead=81 wind=40 lat=52.4158583333 lon=-4.06521833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=81.0 distance=337.703540801 speed=0.76 thead=0 tdist=0
+time=1369998683 bhead=81 wind=40 lat=52.41586 lon=-4.06521166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=81.0 distance=336.894360627 speed=0.86 thead=0 tdist=0
+time=1369998684 bhead=81 wind=40 lat=52.41586 lon=-4.06521666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=81.0 distance=336.420439235 speed=0.76 thead=0 tdist=0
+time=1369998685 bhead=81 wind=40 lat=52.4158483333 lon=-4.06523166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=81.0 distance=336.755678601 speed=0.37 thead=0 tdist=0
+time=1369998686 bhead=81 wind=40 lat=52.4158516667 lon=-4.06523833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=81.0 distance=337.95155398 speed=0.21 thead=0 tdist=0
+time=1369998687 bhead=81 wind=40 lat=52.4158616667 lon=-4.06524833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=175.0 whead=81.0 distance=338.343605968 speed=0.75 thead=0 tdist=0
+time=1369998689 bhead=81 wind=40 lat=52.41588 lon=-4.06525 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=81.0 distance=338.852376329 speed=0.55 thead=0 tdist=0
+time=1369998690 bhead=81 wind=40 lat=52.4158966667 lon=-4.06525166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=82.0 distance=338.677419948 speed=0.97 thead=0 tdist=0
+time=1369998691 bhead=81 wind=40 lat=52.4159233333 lon=-4.06524666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=82.0 distance=338.539122801 speed=0.14 thead=0 tdist=0
+time=1369998692 bhead=81 wind=40 lat=52.415935 lon=-4.06523666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=82.0 distance=337.823334908 speed=0.14 thead=0 tdist=0
+time=1369998693 bhead=81 wind=40 lat=52.4159383333 lon=-4.06523833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=83.0 distance=336.992400096 speed=0.24 thead=0 tdist=0
+time=1369998695 bhead=81 wind=40 lat=52.4159333333 lon=-4.06526666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=83.0 distance=337.060164456 speed=0.81 thead=0 tdist=0
+time=1369998696 bhead=81 wind=40 lat=52.4159283333 lon=-4.065285 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=83.0 distance=339.032935703 speed=0.45 thead=0 tdist=0
+time=1369998697 bhead=81 wind=40 lat=52.4159183333 lon=-4.06531833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=83.0 distance=340.333342604 speed=0.36 thead=0 tdist=0
+time=1369998698 bhead=81 wind=40 lat=52.4159133333 lon=-4.06532333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=82.0 distance=342.711417871 speed=0.45 thead=0 tdist=0
+time=1369998699 bhead=81 wind=40 lat=52.4159066667 lon=-4.06532666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=82.0 distance=343.116782971 speed=0.55 thead=0 tdist=0
+time=1369998701 bhead=81 wind=40 lat=52.4158983333 lon=-4.06534666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=82.0 distance=343.434376706 speed=0.65 thead=0 tdist=0
+time=1369998702 bhead=81 wind=40 lat=52.4158933333 lon=-4.06534666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=82.0 distance=344.897377578 speed=0.31 thead=0 tdist=0
+time=1369998703 bhead=81 wind=40 lat=52.4158816667 lon=-4.06534333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=82.0 distance=344.96973219 speed=0.42 thead=0 tdist=0
+time=1369998704 bhead=81 wind=39 lat=52.415875 lon=-4.06533833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=82.0 distance=344.91809287 speed=0.71 thead=0 tdist=0
+time=1369998705 bhead=81 wind=38 lat=52.4158683333 lon=-4.06533333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=82.0 distance=344.683081316 speed=0.74 thead=0 tdist=0
+time=1369998707 bhead=81 wind=37 lat=52.4158633333 lon=-4.06532833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=81.0 distance=344.449829571 speed=0.79 thead=0 tdist=0
+time=1369998708 bhead=81 wind=37 lat=52.4158483333 lon=-4.06532 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=81.0 distance=344.192185107 speed=0.92 thead=0 tdist=0
+time=1369998709 bhead=82 wind=36 lat=52.4158466667 lon=-4.065315 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=173.0 whead=81.0 distance=343.872438927 speed=0.67 thead=0 tdist=0
+time=1369998710 bhead=82 wind=35 lat=52.415845 lon=-4.06531333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=81.0 distance=343.564325731 speed=0.75 thead=0 tdist=0
+time=1369998711 bhead=81 wind=33 lat=52.41584 lon=-4.06531166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=81.0 distance=343.479807476 speed=0.89 thead=0 tdist=0
+time=1369998713 bhead=81 wind=32 lat=52.4158283333 lon=-4.06531166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=81.0 distance=343.450359381 speed=0.94 thead=0 tdist=0
+time=1369998714 bhead=81 wind=31 lat=52.415825 lon=-4.06530666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=81.0 distance=343.645680942 speed=0.89 thead=0 tdist=0
+time=1369998715 bhead=81 wind=30 lat=52.4158183333 lon=-4.06530166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=81.0 distance=343.36755583 speed=0.96 thead=0 tdist=0
+time=1369998716 bhead=81 wind=28 lat=52.4158166667 lon=-4.06529833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=81.0 distance=343.147531541 speed=0.83 thead=0 tdist=0
+time=1369998717 bhead=81 wind=27 lat=52.4158033333 lon=-4.06529833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=342.953369387 speed=0.85 thead=0 tdist=0
+time=1369998719 bhead=81 wind=25 lat=52.4158033333 lon=-4.0653 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=184.0 whead=80.0 distance=343.188490388 speed=0.40 thead=0 tdist=0
+time=1369998720 bhead=81 wind=24 lat=52.4158033333 lon=-4.06530333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=343.299961802 speed=0.28 thead=0 tdist=0
+time=1369998721 bhead=81 wind=22 lat=52.4158066667 lon=-4.06531166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=343.522913992 speed=0.40 thead=0 tdist=0
+time=1369998722 bhead=81 wind=20 lat=52.4158083333 lon=-4.065315 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=344.021108364 speed=0.33 thead=0 tdist=0
+time=1369998723 bhead=82 wind=17 lat=52.4158083333 lon=-4.06532166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=344.214668236 speed=0.16 thead=0 tdist=0
+time=1369998725 bhead=81 wind=16 lat=52.415805 lon=-4.06533 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=344.660733176 speed=0.44 thead=0 tdist=0
+time=1369998726 bhead=81 wind=13 lat=52.415795 lon=-4.06534666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=345.277164612 speed=0.16 thead=0 tdist=0
+time=1369998727 bhead=81 wind=11 lat=52.415795 lon=-4.065355 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=184.0 whead=80.0 distance=346.570421712 speed=0.22 thead=0 tdist=0
+time=1369998728 bhead=81 wind=8 lat=52.4157916667 lon=-4.06536333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=54.0 rpos=182.0 whead=80.0 distance=347.127719673 speed=0.31 thead=0 tdist=0
+time=1369998730 bhead=81 wind=5 lat=52.41579 lon=-4.06537 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=54.0 rpos=182.0 whead=80.0 distance=347.74496632 speed=0.28 thead=0 tdist=0
+time=1369998731 bhead=81 wind=1 lat=52.4157866667 lon=-4.06537833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=54.0 rpos=182.0 whead=80.0 distance=348.220853718 speed=0.34 thead=0 tdist=0
+time=1369998732 bhead=81 wind=359 lat=52.4157883333 lon=-4.06539166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=54.0 rpos=182.0 whead=80.0 distance=348.838449066 speed=0.37 thead=0 tdist=0
+time=1369998733 bhead=81 wind=355 lat=52.4157833333 lon=-4.0654 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=54.0 rpos=182.0 whead=80.0 distance=349.69972681 speed=0.55 thead=0 tdist=0
+time=1369998739 bhead=81 wind=351 lat=52.41579 lon=-4.06542 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=54.0 rpos=180.0 whead=80.0 distance=350.34758006 speed=0.55 thead=0 tdist=0
+time=1369998740 bhead=81 wind=347 lat=52.41579 lon=-4.065425 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=36.0 rpos=182.0 whead=80.0 distance=351.564487833 speed=0.38 thead=0 tdist=0
+time=1369998741 bhead=81 wind=343 lat=52.4157933333 lon=-4.06543166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=36.0 rpos=182.0 whead=80.0 distance=351.89889133 speed=0.42 thead=0 tdist=0
+time=1369998742 bhead=81 wind=338 lat=52.4157933333 lon=-4.065435 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=18.0 rpos=184.0 whead=80.0 distance=352.285421869 speed=0.53 thead=0 tdist=0
+time=1369998743 bhead=81 wind=334 lat=52.415795 lon=-4.06543833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=18.0 rpos=182.0 whead=80.0 distance=352.508396334 speed=0.48 thead=0 tdist=0
+time=1369998745 bhead=81 wind=330 lat=52.4157966667 lon=-4.06544 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=18.0 rpos=182.0 whead=80.0 distance=352.701890837 speed=0.26 thead=0 tdist=0
+time=1369998746 bhead=81 wind=325 lat=52.4157983333 lon=-4.06544166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=80.0 distance=352.783982907 speed=0.33 thead=0 tdist=0
+time=1369998747 bhead=81 wind=321 lat=52.4158133333 lon=-4.06544166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=80.0 distance=352.866196137 speed=0.14 thead=0 tdist=0
+time=1369998748 bhead=81 wind=317 lat=52.4158166667 lon=-4.06544166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=81.0 distance=352.60671359 speed=0.24 thead=0 tdist=0
+time=1369998750 bhead=81 wind=313 lat=52.4158166667 lon=-4.06544166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=81.0 distance=352.550105393 speed=0.11 thead=0 tdist=0
+time=1369998751 bhead=81 wind=309 lat=52.4158183333 lon=-4.06544166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=81.0 distance=352.550105393 speed=0.06 thead=0 tdist=0
+time=1369998752 bhead=81 wind=306 lat=52.4158233333 lon=-4.06544166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=81.0 distance=352.52193828 speed=0.28 thead=0 tdist=0
+time=1369998753 bhead=81 wind=302 lat=52.41583 lon=-4.06543833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=81.0 distance=352.43801068 speed=0.22 thead=0 tdist=0
+time=1369998754 bhead=81 wind=299 lat=52.4158316667 lon=-4.06543833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=81.0 distance=352.10404253 speed=0.21 thead=0 tdist=0
+time=1369998756 bhead=81 wind=297 lat=52.4158316667 lon=-4.06544 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=81.0 distance=352.076619268 speed=0.21 thead=0 tdist=0
+time=1369998757 bhead=81 wind=294 lat=52.415835 lon=-4.06543833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=81.0 distance=352.188317997 speed=0.24 thead=0 tdist=0
+time=1369998758 bhead=82 wind=292 lat=52.415835 lon=-4.06544 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=81.0 distance=352.022060304 speed=0.22 thead=0 tdist=0
+time=1369998759 bhead=81 wind=290 lat=52.4158333333 lon=-4.06544333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=81.0 distance=352.133776338 speed=0.29 thead=0 tdist=0
+time=1369998760 bhead=81 wind=288 lat=52.4158283333 lon=-4.06544833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=81.0 distance=352.384439742 speed=0.18 thead=0 tdist=0
+time=1369998762 bhead=81 wind=286 lat=52.4158216667 lon=-4.065455 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=81.0 distance=352.801684535 speed=0.26 thead=0 tdist=0
+time=1369998763 bhead=82 wind=284 lat=52.4158166667 lon=-4.06546 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=81.0 distance=353.359150226 speed=0.35 thead=0 tdist=0
+time=1369998764 bhead=82 wind=283 lat=52.4158133333 lon=-4.06546333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=81.0 distance=353.778056089 speed=0.08 thead=0 tdist=0
+time=1369998765 bhead=82 wind=281 lat=52.4157933333 lon=-4.06548 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=81.0 distance=354.057699411 speed=0.43 thead=0 tdist=0
+time=1369998766 bhead=81 wind=280 lat=52.415785 lon=-4.065485 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=80.0 distance=355.519114407 speed=0.35 thead=0 tdist=0
+time=1369998768 bhead=82 wind=279 lat=52.4157783333 lon=-4.06549 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=80.0 distance=356.001368222 speed=0.44 thead=0 tdist=0
+time=1369998769 bhead=81 wind=278 lat=52.4157733333 lon=-4.06549333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=80.0 distance=356.455529838 speed=0.34 thead=0 tdist=0
+time=1369998770 bhead=81 wind=277 lat=52.4157666667 lon=-4.0655 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=80.0 distance=356.769131519 speed=0.46 thead=0 tdist=0
+time=1369998771 bhead=81 wind=276 lat=52.415755 lon=-4.06550833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=80.0 distance=357.336902333 speed=0.39 thead=0 tdist=0
+time=1369998772 bhead=82 wind=275 lat=52.41575 lon=-4.06551166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=80.0 distance=358.110785618 speed=0.38 thead=0 tdist=0
+time=1369998773 bhead=81 wind=274 lat=52.415745 lon=-4.065515 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=80.0 distance=358.427734255 speed=0.42 thead=0 tdist=0
+time=1369998775 bhead=81 wind=273 lat=52.41574 lon=-4.06551833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=80.0 distance=358.745406208 speed=0.38 thead=0 tdist=0
+time=1369998776 bhead=81 wind=272 lat=52.4157366667 lon=-4.06552 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=80.0 distance=359.063799559 speed=0.32 thead=0 tdist=0
+time=1369998777 bhead=81 wind=272 lat=52.4157633333 lon=-4.065505 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=79.0 distance=359.23941057 speed=0.19 thead=0 tdist=0
+time=1369998778 bhead=81 wind=271 lat=52.4157716667 lon=-4.06549833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=80.0 distance=357.732612155 speed=0.21 thead=0 tdist=0
+time=1369998780 bhead=81 wind=270 lat=52.415775 lon=-4.06549833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=80.0 distance=357.133761825 speed=0.20 thead=0 tdist=0
+time=1369998781 bhead=81 wind=270 lat=52.415785 lon=-4.06549166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=80.0 distance=357.073083167 speed=0.33 thead=0 tdist=0
+time=1369998782 bhead=81 wind=269 lat=52.4157933333 lon=-4.06548666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=80.0 distance=356.447274765 speed=0.63 thead=0 tdist=0
+time=1369998783 bhead=81 wind=269 lat=52.4158066667 lon=-4.06547166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=80.0 distance=355.965207945 speed=0.61 thead=0 tdist=0
+time=1369998784 bhead=81 wind=268 lat=52.4158116667 lon=-4.065465 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=81.0 distance=354.729544629 speed=0.60 thead=0 tdist=0
+time=1369998786 bhead=82 wind=268 lat=52.415815 lon=-4.06546 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=81.0 distance=354.197647874 speed=0.62 thead=0 tdist=0
+time=1369998787 bhead=82 wind=267 lat=52.4158233333 lon=-4.06545 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=81.0 distance=353.806224935 speed=0.64 thead=0 tdist=0
+time=1369998788 bhead=82 wind=267 lat=52.4158283333 lon=-4.06543833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=81.0 distance=352.996318365 speed=0.68 thead=0 tdist=0
+time=1369998789 bhead=82 wind=266 lat=52.4158316667 lon=-4.06543333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=81.0 distance=352.131540321 speed=0.67 thead=0 tdist=0
+time=1369998790 bhead=81 wind=266 lat=52.41583 lon=-4.06543333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=81.0 distance=351.741502129 speed=0.59 thead=0 tdist=0
+time=1369998792 bhead=81 wind=265 lat=52.4158266667 lon=-4.06543833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=81.0 distance=351.768964307 speed=0.56 thead=0 tdist=0
+time=1369998793 bhead=82 wind=265 lat=52.415825 lon=-4.06543833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=81.0 distance=352.159189279 speed=0.38 thead=0 tdist=0
+time=1369998794 bhead=81 wind=265 lat=52.41581 lon=-4.06546833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=81.0 distance=352.186887169 speed=0.35 thead=0 tdist=0
+time=1369998795 bhead=82 wind=264 lat=52.4158033333 lon=-4.06548333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=81.0 distance=354.449276231 speed=0.33 thead=0 tdist=0
+time=1369998796 bhead=81 wind=264 lat=52.4157966667 lon=-4.06549833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=81.0 distance=355.567986727 speed=0.24 thead=0 tdist=0
+time=1369998798 bhead=82 wind=264 lat=52.41579 lon=-4.06551333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=80.0 distance=356.68762867 speed=0.38 thead=0 tdist=0
+time=1369998799 bhead=81 wind=266 lat=52.4157833333 lon=-4.06553 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=80.0 distance=357.808180742 speed=0.44 thead=0 tdist=0
+time=1369998800 bhead=82 wind=267 lat=52.41577 lon=-4.06556666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=185.0 whead=80.0 distance=359.041143519 speed=0.65 thead=0 tdist=0
+time=1369998801 bhead=81 wind=269 lat=52.4157616667 lon=-4.06558333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=80.0 distance=361.73246115 speed=0.73 thead=0 tdist=0
+time=1369998803 bhead=81 wind=270 lat=52.4157566667 lon=-4.065595 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=80.0 distance=362.998328714 speed=0.55 thead=0 tdist=0
+time=1369998804 bhead=81 wind=272 lat=52.4157483333 lon=-4.06560666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=80.0 distance=363.869949242 speed=0.64 thead=0 tdist=0
+time=1369998805 bhead=82 wind=273 lat=52.4157416667 lon=-4.06561666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=80.0 distance=364.80408274 speed=0.76 thead=0 tdist=0
+time=1369998806 bhead=82 wind=272 lat=52.4157283333 lon=-4.06563833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=80.0 distance=365.597123522 speed=0.79 thead=0 tdist=0
+time=1369998807 bhead=81 wind=272 lat=52.4157216667 lon=-4.06564833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=80.0 distance=367.297532895 speed=0.77 thead=0 tdist=0
+time=1369998809 bhead=81 wind=271 lat=52.4157166667 lon=-4.06565666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=79.0 distance=368.09363568 speed=0.72 thead=0 tdist=0
+time=1369998810 bhead=81 wind=271 lat=52.4157116667 lon=-4.06566666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=79.0 distance=368.746973032 speed=0.70 thead=0 tdist=0
+time=1369998811 bhead=81 wind=270 lat=52.4157066667 lon=-4.06567333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=79.0 distance=369.511997588 speed=0.72 thead=0 tdist=0
+time=1369998812 bhead=81 wind=269 lat=52.4156983333 lon=-4.06569 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=79.0 distance=370.055257372 speed=0.76 thead=0 tdist=0
+time=1369998813 bhead=81 wind=268 lat=52.4156933333 lon=-4.06570166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=79.0 distance=371.332277136 speed=0.86 thead=0 tdist=0
+time=1369998815 bhead=81 wind=267 lat=52.41569 lon=-4.065715 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=79.0 distance=372.210225944 speed=0.97 thead=0 tdist=0
+time=1369998816 bhead=81 wind=266 lat=52.4156866667 lon=-4.06572833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=79.0 distance=373.166019453 speed=1.03 thead=0 tdist=0
+time=1369998817 bhead=81 wind=265 lat=52.4156833333 lon=-4.06574166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=79.0 distance=374.121860569 speed=1.14 thead=0 tdist=0
+time=1369998818 bhead=81 wind=264 lat=52.41568 lon=-4.06576166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=79.0 distance=375.077844892 speed=1.02 thead=0 tdist=0
+time=1369998819 bhead=81 wind=263 lat=52.4156766667 lon=-4.06577 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=79.0 distance=376.478069061 speed=1.05 thead=0 tdist=0
+time=1369998820 bhead=81 wind=262 lat=52.4156766667 lon=-4.06577666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=79.0 distance=377.101132143 speed=0.87 thead=0 tdist=0
+time=1369998822 bhead=82 wind=261 lat=52.415675 lon=-4.06578166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=79.0 distance=377.54523782 speed=0.79 thead=0 tdist=0
+time=1369998823 bhead=81 wind=260 lat=52.415675 lon=-4.06578666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=79.0 distance=377.912323864 speed=0.73 thead=0 tdist=0
+time=1369998824 bhead=82 wind=259 lat=52.415675 lon=-4.065795 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=79.0 distance=378.245403806 speed=0.57 thead=0 tdist=0
+time=1369998825 bhead=81 wind=258 lat=52.4156816667 lon=-4.06578833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=79.0 distance=378.800547398 speed=0.41 thead=0 tdist=0
+time=1369998827 bhead=81 wind=258 lat=52.4156983333 lon=-4.06576333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=79.0 distance=378.221136927 speed=0.09 thead=0 tdist=0
+time=1369998828 bhead=81 wind=258 lat=52.415705 lon=-4.06575666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=79.0 distance=376.221752621 speed=0.20 thead=0 tdist=0
+time=1369998829 bhead=81 wind=258 lat=52.4157116667 lon=-4.06574833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=79.0 distance=375.646078022 speed=0.28 thead=0 tdist=0
+time=1369998830 bhead=82 wind=258 lat=52.4157133333 lon=-4.06574333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=79.0 distance=374.960305552 speed=0.73 thead=0 tdist=0
+time=1369998831 bhead=81 wind=258 lat=52.4157133333 lon=-4.065745 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=79.0 distance=374.59439842 speed=0.40 thead=0 tdist=0
+time=1369998832 bhead=81 wind=258 lat=52.4157166667 lon=-4.06574666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=79.0 distance=374.705604555 speed=0.42 thead=0 tdist=0
+time=1369998834 bhead=81 wind=258 lat=52.4157183333 lon=-4.06574666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=80.0 distance=374.752599041 speed=0.54 thead=0 tdist=0
+time=1369998835 bhead=81 wind=258 lat=52.41572 lon=-4.06574666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=184.0 whead=80.0 distance=374.720613654 speed=0.52 thead=0 tdist=0
+time=1369998836 bhead=81 wind=258 lat=52.4157316667 lon=-4.06573666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=80.0 distance=374.688697586 speed=0.42 thead=0 tdist=0
+time=1369998837 bhead=81 wind=258 lat=52.41575 lon=-4.06572 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=80.0 distance=373.799947591 speed=0.94 thead=0 tdist=0
+time=1369998838 bhead=81 wind=258 lat=52.4157616667 lon=-4.06571166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=80.0 distance=372.346976778 speed=0.72 thead=0 tdist=0
+time=1369998840 bhead=81 wind=258 lat=52.4157733333 lon=-4.06569666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=80.0 distance=371.579010321 speed=0.76 thead=0 tdist=0
+time=1369998841 bhead=81 wind=258 lat=52.4157833333 lon=-4.06568166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=80.0 distance=370.368726571 speed=0.89 thead=0 tdist=0
+time=1369998842 bhead=81 wind=258 lat=52.4158133333 lon=-4.06563666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=81.0 distance=369.190598598 speed=1.11 thead=0 tdist=0
+time=1369998843 bhead=81 wind=258 lat=52.4158266667 lon=-4.06561333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=81.0 distance=365.670623903 speed=1.21 thead=0 tdist=0
+time=1369998844 bhead=81 wind=258 lat=52.4158433333 lon=-4.06559166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=182.0 whead=81.0 distance=363.889745213 speed=1.11 thead=0 tdist=0
+time=1369998846 bhead=81 wind=258 lat=52.415855 lon=-4.06557666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=81.0 distance=362.172789965 speed=1.39 thead=0 tdist=0
+time=1369998847 bhead=81 wind=258 lat=52.415865 lon=-4.065565 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=82.0 distance=360.98647223 speed=1.32 thead=0 tdist=0
+time=1369998848 bhead=82 wind=258 lat=52.4158733333 lon=-4.06556333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=82.0 distance=360.052456128 speed=1.46 thead=0 tdist=0
+time=1369998849 bhead=81 wind=258 lat=52.4158783333 lon=-4.065565 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=82.0 distance=359.817325964 speed=1.48 thead=0 tdist=0
+time=1369998850 bhead=81 wind=258 lat=52.41588 lon=-4.06556666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=82.0 distance=359.856524994 speed=0.97 thead=0 tdist=0
+time=1369998852 bhead=81 wind=259 lat=52.4158816667 lon=-4.065565 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=82.0 distance=359.944460329 speed=0.62 thead=0 tdist=0
+time=1369998853 bhead=81 wind=259 lat=52.41588 lon=-4.065565 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=82.0 distance=359.808472769 speed=0.49 thead=0 tdist=0
+time=1369998854 bhead=81 wind=259 lat=52.41588 lon=-4.06555833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=82.0 distance=359.832480928 speed=0.59 thead=0 tdist=0
+time=1369998855 bhead=81 wind=259 lat=52.4158783333 lon=-4.065555 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=82.0 distance=359.384514878 speed=0.57 thead=0 tdist=0
+time=1369998856 bhead=81 wind=260 lat=52.4158766667 lon=-4.06555333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=82.0 distance=359.184649392 speed=0.60 thead=0 tdist=0
+time=1369998858 bhead=81 wind=260 lat=52.4158766667 lon=-4.06555 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=82.0 distance=359.09686629 speed=0.63 thead=0 tdist=0
+time=1369998859 bhead=81 wind=262 lat=52.41587 lon=-4.06555166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=82.0 distance=358.872932848 speed=0.12 thead=0 tdist=0
+time=1369998860 bhead=81 wind=264 lat=52.4158916667 lon=-4.06552666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=82.0 distance=359.082720267 speed=0.31 thead=0 tdist=0
+time=1369998861 bhead=81 wind=267 lat=52.4159066667 lon=-4.065505 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=82.0 distance=357.089765786 speed=0.30 thead=0 tdist=0
+time=1369998863 bhead=81 wind=273 lat=52.4159116667 lon=-4.065495 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=82.0 distance=355.424590298 speed=0.25 thead=0 tdist=0
+time=1369998864 bhead=81 wind=300 lat=52.4159033333 lon=-4.0655 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=176.0 whead=83.0 distance=354.684070631 speed=0.02 thead=0 tdist=0
+time=1369998865 bhead=81 wind=31 lat=52.4159216667 lon=-4.06547 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=54.0 rpos=178.0 whead=82.0 distance=355.134127041 speed=0.20 thead=0 tdist=0
+time=1369998866 bhead=81 wind=58 lat=52.4159283333 lon=-4.065455 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=83.0 distance=352.868389247 speed=0.41 thead=0 tdist=0
+time=1369998868 bhead=81 wind=65 lat=52.415935 lon=-4.06544 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=83.0 distance=351.771407275 speed=0.49 thead=0 tdist=0
+time=1369998869 bhead=81 wind=67 lat=52.4159366667 lon=-4.06543 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=83.0 distance=350.675497177 speed=0.20 thead=0 tdist=0
+time=1369998870 bhead=81 wind=69 lat=52.4159366667 lon=-4.06542 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=83.0 distance=349.980957566 speed=0.73 thead=0 tdist=0
+time=1369998871 bhead=81 wind=70 lat=52.4159366667 lon=-4.0654 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=83.0 distance=349.307823371 speed=0.47 thead=0 tdist=0
+time=1369998872 bhead=82 wind=71 lat=52.41593 lon=-4.0654 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=83.0 distance=347.961592204 speed=0.49 thead=0 tdist=0
+time=1369998873 bhead=81 wind=72 lat=52.41592 lon=-4.06540666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=166.0 whead=83.0 distance=348.04834442 speed=0.19 thead=0 tdist=0
+time=1369998875 bhead=81 wind=72 lat=52.4159116667 lon=-4.065415 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=83.0 distance=348.629788853 speed=0.38 thead=0 tdist=0
+time=1369998876 bhead=81 wind=72 lat=52.415905 lon=-4.06541833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=349.303585636 speed=0.39 thead=0 tdist=0
+time=1369998877 bhead=81 wind=73 lat=52.4158966667 lon=-4.06542666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=349.619973393 speed=0.41 thead=0 tdist=0
+time=1369998878 bhead=81 wind=73 lat=52.4158933333 lon=-4.06543 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=350.297517017 speed=0.16 thead=0 tdist=0
+time=1369998879 bhead=81 wind=73 lat=52.4158916667 lon=-4.06543333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=350.569091876 speed=0.37 thead=0 tdist=0
+time=1369998881 bhead=81 wind=73 lat=52.4158916667 lon=-4.06543 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=166.0 whead=82.0 distance=350.81702573 speed=0.14 thead=0 tdist=0
+time=1369998882 bhead=81 wind=73 lat=52.4158883333 lon=-4.06543 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=350.593026901 speed=0.32 thead=0 tdist=0
+time=1369998883 bhead=81 wind=73 lat=52.4158816667 lon=-4.06542166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=166.0 whead=82.0 distance=350.641161513 speed=0.51 thead=0 tdist=0
+time=1369998884 bhead=81 wind=73 lat=52.4158783333 lon=-4.065415 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=350.178829516 speed=0.65 thead=0 tdist=0
+time=1369998886 bhead=81 wind=73 lat=52.415875 lon=-4.06541333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=166.0 whead=82.0 distance=349.780491098 speed=0.65 thead=0 tdist=0
+time=1369998887 bhead=81 wind=73 lat=52.4158733333 lon=-4.06541333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=349.718395078 speed=0.16 thead=0 tdist=0
+time=1369998888 bhead=81 wind=73 lat=52.4158716667 lon=-4.06541166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=349.743443215 speed=0.46 thead=0 tdist=0
+time=1369998889 bhead=81 wind=73 lat=52.41587 lon=-4.06541 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=349.656712666 speed=0.19 thead=0 tdist=0
+time=1369998890 bhead=81 wind=73 lat=52.41587 lon=-4.06541 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=349.570076436 speed=0.20 thead=0 tdist=0
+time=1369998892 bhead=81 wind=73 lat=52.4158716667 lon=-4.06540833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=349.570076436 speed=0.36 thead=0 tdist=0
+time=1369998893 bhead=81 wind=73 lat=52.4158716667 lon=-4.065405 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=349.432922856 speed=0.34 thead=0 tdist=0
+time=1369998894 bhead=81 wind=73 lat=52.4158716667 lon=-4.06540666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=349.209131358 speed=0.11 thead=0 tdist=0
+time=1369998895 bhead=81 wind=73 lat=52.4158716667 lon=-4.06540333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=349.321025709 speed=0.33 thead=0 tdist=0
+time=1369998896 bhead=81 wind=73 lat=52.4158716667 lon=-4.06540166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=166.0 whead=82.0 distance=349.097252696 speed=0.36 thead=0 tdist=0
+time=1369998898 bhead=81 wind=73 lat=52.4158716667 lon=-4.06540166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=166.0 whead=82.0 distance=348.985363953 speed=0.23 thead=0 tdist=0
+time=1369998899 bhead=82 wind=73 lat=52.4158716667 lon=-4.06540166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=348.985363953 speed=0.10 thead=0 tdist=0
+time=1369998900 bhead=81 wind=73 lat=52.4158733333 lon=-4.065405 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=348.985363953 speed=0.11 thead=0 tdist=0
+time=1369998901 bhead=81 wind=73 lat=52.4158733333 lon=-4.06540166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=349.183928928 speed=0.23 thead=0 tdist=0
+time=1369998902 bhead=81 wind=73 lat=52.415875 lon=-4.06539833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=348.960145362 speed=0.33 thead=0 tdist=0
+time=1369998904 bhead=81 wind=74 lat=52.415875 lon=-4.06539666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=348.711213831 speed=0.51 thead=0 tdist=0
+time=1369998905 bhead=82 wind=74 lat=52.415875 lon=-4.065395 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=348.599304437 speed=0.58 thead=0 tdist=0
+time=1369998906 bhead=81 wind=74 lat=52.4158683333 lon=-4.06539 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=166.0 whead=82.0 distance=348.487410748 speed=0.61 thead=0 tdist=0
+time=1369998907 bhead=81 wind=74 lat=52.41586 lon=-4.06539 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=348.252973295 speed=0.69 thead=0 tdist=0
+time=1369998908 bhead=81 wind=73 lat=52.41586 lon=-4.06539 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=81.0 distance=348.381731946 speed=0.53 thead=0 tdist=0
+time=1369998910 bhead=81 wind=73 lat=52.41586 lon=-4.06539 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=81.0 distance=348.381731946 speed=0.48 thead=0 tdist=0
+time=1369998911 bhead=81 wind=73 lat=52.4158616667 lon=-4.06539 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=81.0 distance=348.381731946 speed=0.36 thead=0 tdist=0
+time=1369998912 bhead=81 wind=74 lat=52.4158666667 lon=-4.06539166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=162.0 whead=81.0 distance=348.355785121 speed=0.33 thead=0 tdist=0
+time=1369998913 bhead=82 wind=74 lat=52.4158683333 lon=-4.06539333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=348.390384764 speed=0.32 thead=0 tdist=0
+time=1369998914 bhead=81 wind=75 lat=52.4158683333 lon=-4.065395 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=348.47670745 speed=0.27 thead=0 tdist=0
+time=1369998916 bhead=81 wind=76 lat=52.4158683333 lon=-4.06539666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=348.588591667 speed=0.31 thead=0 tdist=0
+time=1369998917 bhead=82 wind=77 lat=52.4158666667 lon=-4.0654 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=348.700452888 speed=0.29 thead=0 tdist=0
+time=1369998918 bhead=82 wind=78 lat=52.4158666667 lon=-4.06540166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=166.0 whead=82.0 distance=348.949701546 speed=0.16 thead=0 tdist=0
+time=1369998919 bhead=81 wind=79 lat=52.4158683333 lon=-4.06540333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=349.061575941 speed=0.14 thead=0 tdist=0
+time=1369998920 bhead=82 wind=80 lat=52.4158683333 lon=-4.065405 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=349.147951754 speed=0.11 thead=0 tdist=0
+time=1369998922 bhead=81 wind=81 lat=52.4158666667 lon=-4.06540666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=166.0 whead=82.0 distance=349.259814176 speed=0.11 thead=0 tdist=0
+time=1369998923 bhead=81 wind=82 lat=52.4158666667 lon=-4.06540833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=349.397164481 speed=0.07 thead=0 tdist=0
+time=1369998924 bhead=81 wind=84 lat=52.4158666667 lon=-4.06540166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=162.0 whead=82.0 distance=349.509024379 speed=0.39 thead=0 tdist=0
+time=1369998925 bhead=81 wind=86 lat=52.4158683333 lon=-4.06539833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=349.061575941 speed=0.50 thead=0 tdist=0
+time=1369998926 bhead=81 wind=88 lat=52.4158683333 lon=-4.0654 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=348.812316933 speed=0.16 thead=0 tdist=0
+time=1369998928 bhead=81 wind=90 lat=52.4158683333 lon=-4.06540333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=166.0 whead=82.0 distance=348.924196693 speed=0.12 thead=0 tdist=0
+time=1369998929 bhead=81 wind=92 lat=52.4158683333 lon=-4.06540833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=166.0 whead=82.0 distance=349.147951754 speed=0.12 thead=0 tdist=0
+time=1369998930 bhead=81 wind=95 lat=52.415865 lon=-4.065415 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=349.483560345 speed=0.09 thead=0 tdist=0
+time=1369998931 bhead=79 wind=98 lat=52.4158533333 lon=-4.06542333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=164.0 whead=82.0 distance=349.982037452 speed=0.27 thead=0 tdist=0
+time=1369998932 bhead=70 wind=101 lat=52.415845 lon=-4.06543 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=131.0 whead=81.0 distance=350.722478725 speed=0.45 thead=0 tdist=0
+time=1369998934 bhead=70 wind=105 lat=52.4158366667 lon=-4.065435 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=144.0 whead=81.0 distance=351.301802512 speed=0.47 thead=0 tdist=0
+time=1369998935 bhead=70 wind=110 lat=52.4158283333 lon=-4.06544 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=144.0 whead=81.0 distance=351.771471227 speed=0.57 thead=0 tdist=0
+time=1369998936 bhead=70 wind=115 lat=52.4158333333 lon=-4.065435 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=144.0 whead=81.0 distance=352.24324718 speed=0.06 thead=0 tdist=0
+time=1369998937 bhead=70 wind=120 lat=52.415845 lon=-4.06542666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=144.0 whead=81.0 distance=351.825864437 speed=0.27 thead=0 tdist=0
+time=1369998939 bhead=70 wind=127 lat=52.4158516667 lon=-4.06541833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=144.0 whead=81.0 distance=351.078266774 speed=0.36 thead=0 tdist=0
+time=1369998940 bhead=70 wind=133 lat=52.4158583333 lon=-4.06540833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=158.0 whead=81.0 distance=350.413352384 speed=0.48 thead=0 tdist=0
+time=1369998941 bhead=70 wind=140 lat=52.4158566667 lon=-4.06540166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=160.0 whead=81.0 distance=349.637809473 speed=0.61 thead=0 tdist=0
+time=1369998942 bhead=70 wind=147 lat=52.4158566667 lon=-4.06538666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=54.0 rpos=160.0 whead=81.0 distance=349.216604122 speed=0.83 thead=0 tdist=0
+time=1369998943 bhead=70 wind=154 lat=52.4158533333 lon=-4.06538 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=54.0 rpos=158.0 whead=81.0 distance=348.21028436 speed=0.83 thead=0 tdist=0
+time=1369998945 bhead=70 wind=161 lat=52.4158483333 lon=-4.065375 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=54.0 rpos=160.0 whead=81.0 distance=347.815719569 speed=0.76 thead=0 tdist=0
+time=1369998946 bhead=69 wind=167 lat=52.4158466667 lon=-4.06537 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=36.0 rpos=160.0 whead=81.0 distance=347.560155977 speed=0.64 thead=0 tdist=0
+time=1369998947 bhead=70 wind=173 lat=52.4158466667 lon=-4.06536666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=18.0 rpos=160.0 whead=81.0 distance=347.251673987 speed=0.47 thead=0 tdist=0
+time=1369998948 bhead=70 wind=178 lat=52.41585 lon=-4.06535833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=18.0 rpos=158.0 whead=81.0 distance=347.02818725 speed=0.52 thead=0 tdist=0
+time=1369998949 bhead=69 wind=184 lat=52.4158516667 lon=-4.065355 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=346.415767883 speed=0.46 thead=0 tdist=0
+time=1369998951 bhead=70 wind=188 lat=52.4158533333 lon=-4.06535333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=346.165565558 speed=0.42 thead=0 tdist=0
+time=1369998952 bhead=70 wind=191 lat=52.41585 lon=-4.06535 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=346.02717957 speed=0.43 thead=0 tdist=0
+time=1369998953 bhead=70 wind=194 lat=52.4158416667 lon=-4.06534666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=345.856971474 speed=0.59 thead=0 tdist=0
+time=1369998954 bhead=70 wind=197 lat=52.4158333333 lon=-4.06533666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=345.768667498 speed=0.66 thead=0 tdist=0
+time=1369998955 bhead=69 wind=200 lat=52.41583 lon=-4.06533333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=158.0 whead=81.0 distance=345.236258078 speed=0.53 thead=0 tdist=0
+time=1369998956 bhead=69 wind=202 lat=52.41583 lon=-4.06533 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=345.068802216 speed=0.41 thead=0 tdist=0
+time=1369998958 bhead=69 wind=204 lat=52.41583 lon=-4.06532833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=158.0 whead=81.0 distance=344.84550562 speed=0.27 thead=0 tdist=0
+time=1369998959 bhead=70 wind=206 lat=52.4158316667 lon=-4.06533 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=158.0 whead=81.0 distance=344.73386834 speed=0.19 thead=0 tdist=0
+time=1369998960 bhead=70 wind=207 lat=52.415835 lon=-4.06532166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=344.817505088 speed=0.55 thead=0 tdist=0
+time=1369998961 bhead=69 wind=209 lat=52.4158366667 lon=-4.06532 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=344.20346607 speed=0.37 thead=0 tdist=0
+time=1369998962 bhead=70 wind=210 lat=52.4158366667 lon=-4.065315 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=344.064042447 speed=0.51 thead=0 tdist=0
+time=1369998964 bhead=71 wind=211 lat=52.4158383333 lon=-4.06531333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=343.729019616 speed=0.39 thead=0 tdist=0
+time=1369998965 bhead=70 wind=212 lat=52.41584 lon=-4.06531333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=343.589639179 speed=0.24 thead=0 tdist=0
+time=1369998966 bhead=69 wind=213 lat=52.4158416667 lon=-4.06531 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=343.562060133 speed=0.41 thead=0 tdist=0
+time=1369998967 bhead=70 wind=214 lat=52.4158416667 lon=-4.06530666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=343.311154133 speed=0.55 thead=0 tdist=0
+time=1369998969 bhead=69 wind=215 lat=52.4158416667 lon=-4.0653 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=343.08776271 speed=0.74 thead=0 tdist=0
+time=1369998970 bhead=70 wind=216 lat=52.4158433333 lon=-4.06529833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=342.640989391 speed=0.44 thead=0 tdist=0
+time=1369998971 bhead=70 wind=216 lat=52.415845 lon=-4.0653 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=158.0 whead=81.0 distance=342.501809872 speed=0.31 thead=0 tdist=0
+time=1369998972 bhead=69 wind=217 lat=52.4158366667 lon=-4.06529833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=342.586122874 speed=0.56 thead=0 tdist=0
+time=1369998973 bhead=70 wind=218 lat=52.4158366667 lon=-4.06529166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=158.0 whead=81.0 distance=342.612349062 speed=0.71 thead=0 tdist=0
+time=1369998975 bhead=69 wind=218 lat=52.4158316667 lon=-4.06529166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=342.165704502 speed=0.30 thead=0 tdist=0
+time=1369998976 bhead=70 wind=219 lat=52.41583 lon=-4.06529333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=342.249745356 speed=0.38 thead=0 tdist=0
+time=1369998977 bhead=70 wind=219 lat=52.4158283333 lon=-4.06529333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=342.389579253 speed=0.47 thead=0 tdist=0
+time=1369998978 bhead=70 wind=220 lat=52.41583 lon=-4.06529333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=342.417870302 speed=0.21 thead=0 tdist=0
+time=1369998979 bhead=70 wind=220 lat=52.41583 lon=-4.065295 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=158.0 whead=81.0 distance=342.389579253 speed=0.02 thead=0 tdist=0
+time=1369998981 bhead=70 wind=221 lat=52.4158316667 lon=-4.06529666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=342.501192454 speed=0.12 thead=0 tdist=0
+time=1369998982 bhead=70 wind=221 lat=52.41583 lon=-4.0653 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=342.584638808 speed=0.23 thead=0 tdist=0
+time=1369998983 bhead=70 wind=222 lat=52.4158366667 lon=-4.06530666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=158.0 whead=81.0 distance=342.836089635 speed=0.60 thead=0 tdist=0
+time=1369998984 bhead=70 wind=222 lat=52.4158366667 lon=-4.06531 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=343.170659993 speed=0.41 thead=0 tdist=0
+time=1369998985 bhead=70 wind=222 lat=52.4158433333 lon=-4.06530833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=343.394010591 speed=0.39 thead=0 tdist=0
+time=1369998987 bhead=70 wind=222 lat=52.4158433333 lon=-4.06530833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=343.172010416 speed=0.22 thead=0 tdist=0
+time=1369998988 bhead=70 wind=223 lat=52.415845 lon=-4.06530833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=343.172010416 speed=0.30 thead=0 tdist=0
+time=1369998989 bhead=70 wind=223 lat=52.4158566667 lon=-4.065305 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=343.144673155 speed=0.43 thead=0 tdist=0
+time=1369998990 bhead=70 wind=223 lat=52.4158633333 lon=-4.06530333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=342.732514713 speed=0.44 thead=0 tdist=0
+time=1369998991 bhead=70 wind=224 lat=52.4158683333 lon=-4.06530166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=342.515011829 speed=0.37 thead=0 tdist=0
+time=1369998993 bhead=70 wind=224 lat=52.4158733333 lon=-4.06529833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=160.0 whead=81.0 distance=342.324907097 speed=0.30 thead=0 tdist=0
+time=1369998994 bhead=70 wind=224 lat=52.415875 lon=-4.06529666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=82.0 distance=342.023792693 speed=0.33 thead=0 tdist=0
+time=1369998995 bhead=69 wind=224 lat=52.4158833333 lon=-4.06529333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=158.0 whead=82.0 distance=341.886296468 speed=0.37 thead=0 tdist=0
+time=1369998996 bhead=70 wind=224 lat=52.4158866667 lon=-4.06529166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=158.0 whead=82.0 distance=341.535819175 speed=0.38 thead=0 tdist=0
+time=1369998997 bhead=70 wind=225 lat=52.41589 lon=-4.06529166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=158.0 whead=82.0 distance=341.373876205 speed=0.39 thead=0 tdist=0
+time=1369998999 bhead=70 wind=225 lat=52.4158916667 lon=-4.06529166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=158.0 whead=82.0 distance=341.324236967 speed=0.51 thead=0 tdist=0
+time=1369999000 bhead=70 wind=225 lat=52.4158916667 lon=-4.06529 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=158.0 whead=82.0 distance=341.299559652 speed=0.54 thead=0 tdist=0
+time=1369999001 bhead=70 wind=225 lat=52.415895 lon=-4.06529 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=158.0 whead=82.0 distance=341.187619295 speed=0.51 thead=0 tdist=0
+time=1369999002 bhead=70 wind=225 lat=52.4158966667 lon=-4.06529 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=158.0 whead=82.0 distance=341.13855965 speed=0.40 thead=0 tdist=0
+time=1369999003 bhead=69 wind=226 lat=52.4158983333 lon=-4.06528833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=82.0 distance=341.114185461 speed=0.27 thead=0 tdist=0
+time=1369999005 bhead=69 wind=226 lat=52.4159016667 lon=-4.06529 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=82.0 distance=340.977905876 speed=0.38 thead=0 tdist=0
+time=1369999006 bhead=70 wind=226 lat=52.415905 lon=-4.06528833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=158.0 whead=82.0 distance=341.04160654 speed=0.41 thead=0 tdist=0
+time=1369999007 bhead=69 wind=226 lat=52.4159066667 lon=-4.06529166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=82.0 distance=340.881738609 speed=0.31 thead=0 tdist=0
+time=1369999008 bhead=69 wind=226 lat=52.4159083333 lon=-4.06529166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=158.0 whead=82.0 distance=341.081947658 speed=0.33 thead=0 tdist=0
+time=1369999010 bhead=69 wind=226 lat=52.41591 lon=-4.06529 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=158.0 whead=82.0 distance=341.058281799 speed=0.35 thead=0 tdist=0
+time=1369999011 bhead=69 wind=226 lat=52.4159133333 lon=-4.06528833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=158.0 whead=82.0 distance=340.922666132 speed=0.42 thead=0 tdist=0
+time=1369999012 bhead=70 wind=227 lat=52.415925 lon=-4.06528333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=82.0 distance=340.763732666 speed=0.49 thead=0 tdist=0
+time=1369999013 bhead=70 wind=227 lat=52.41593 lon=-4.06528166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=158.0 whead=82.0 distance=340.266401998 speed=0.58 thead=0 tdist=0
+time=1369999014 bhead=69 wind=227 lat=52.4159333333 lon=-4.06528333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=155.0 whead=83.0 distance=340.086695946 speed=0.49 thead=0 tdist=0
+time=1369999016 bhead=69 wind=227 lat=52.4159416667 lon=-4.06527333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=340.154240687 speed=0.62 thead=0 tdist=0
+time=1369999017 bhead=69 wind=227 lat=52.4159516667 lon=-4.06526 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=339.371547104 speed=0.79 thead=0 tdist=0
+time=1369999018 bhead=70 wind=227 lat=52.415955 lon=-4.06524166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=338.345321403 speed=0.63 thead=0 tdist=0
+time=1369999019 bhead=70 wind=227 lat=52.41595 lon=-4.06523833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=337.068760852 speed=0.55 thead=0 tdist=0
+time=1369999020 bhead=69 wind=227 lat=52.41595 lon=-4.06523 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=155.0 whead=83.0 distance=336.908036054 speed=0.57 thead=0 tdist=0
+time=1369999022 bhead=69 wind=227 lat=52.4159516667 lon=-4.06522166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=336.347074879 speed=0.63 thead=0 tdist=0
+time=1369999023 bhead=70 wind=227 lat=52.415955 lon=-4.06521166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=155.0 whead=83.0 distance=335.764755418 speed=0.65 thead=0 tdist=0
+time=1369999024 bhead=70 wind=227 lat=52.4159616667 lon=-4.065185 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=335.049016243 speed=0.73 thead=0 tdist=0
+time=1369999025 bhead=70 wind=228 lat=52.415965 lon=-4.06517166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=333.169428208 speed=0.62 thead=0 tdist=0
+time=1369999026 bhead=70 wind=228 lat=52.4159683333 lon=-4.06514 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=332.229932793 speed=0.93 thead=0 tdist=0
+time=1369999028 bhead=70 wind=228 lat=52.4159716667 lon=-4.06511833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=330.055990796 speed=0.79 thead=0 tdist=0
+time=1369999029 bhead=70 wind=228 lat=52.4159733333 lon=-4.06509833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=328.555608849 speed=0.62 thead=0 tdist=0
+time=1369999030 bhead=70 wind=228 lat=52.415975 lon=-4.06503833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=327.188087531 speed=1.04 thead=0 tdist=0
+time=1369999031 bhead=70 wind=228 lat=52.415975 lon=-4.06501333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=323.126715659 speed=1.10 thead=0 tdist=0
+time=1369999033 bhead=70 wind=228 lat=52.4159766667 lon=-4.06499 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=321.443209338 speed=0.96 thead=0 tdist=0
+time=1369999034 bhead=69 wind=228 lat=52.4159783333 lon=-4.06497666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=319.851193659 speed=0.92 thead=0 tdist=0
+time=1369999035 bhead=70 wind=228 lat=52.4159766667 lon=-4.06497333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=318.932563944 speed=0.79 thead=0 tdist=0
+time=1369999036 bhead=69 wind=228 lat=52.41597 lon=-4.06500333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=155.0 whead=83.0 distance=318.728916137 speed=0.37 thead=0 tdist=0
+time=1369999037 bhead=70 wind=228 lat=52.415965 lon=-4.06501166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=320.832886606 speed=0.62 thead=0 tdist=0
+time=1369999039 bhead=70 wind=229 lat=52.4159633333 lon=-4.06502166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=321.457780028 speed=0.14 thead=0 tdist=0
+time=1369999040 bhead=70 wind=229 lat=52.41596 lon=-4.065035 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=322.152361926 speed=0.23 thead=0 tdist=0
+time=1369999041 bhead=70 wind=230 lat=52.4159583333 lon=-4.06503833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=323.092919829 speed=0.33 thead=0 tdist=0
+time=1369999042 bhead=70 wind=231 lat=52.4159566667 lon=-4.06502666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=323.338976254 speed=0.29 thead=0 tdist=0
+time=1369999043 bhead=70 wind=232 lat=52.415955 lon=-4.065015 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=322.575682467 speed=0.44 thead=0 tdist=0
+time=1369999045 bhead=70 wind=233 lat=52.415955 lon=-4.06500833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=321.812633473 speed=0.19 thead=0 tdist=0
+time=1369999046 bhead=70 wind=234 lat=52.415955 lon=-4.06500333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=321.364073776 speed=0.32 thead=0 tdist=0
+time=1369999047 bhead=70 wind=235 lat=52.4159516667 lon=-4.065 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=321.027659648 speed=0.17 thead=0 tdist=0
+time=1369999048 bhead=70 wind=236 lat=52.41595 lon=-4.06500833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=320.847863637 speed=0.45 thead=0 tdist=0
+time=1369999049 bhead=70 wind=236 lat=52.4159466667 lon=-4.06502666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=321.430821632 speed=0.45 thead=0 tdist=0
+time=1369999051 bhead=70 wind=237 lat=52.415945 lon=-4.06504333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=322.708997779 speed=0.52 thead=0 tdist=0
+time=1369999052 bhead=70 wind=238 lat=52.415945 lon=-4.065055 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=323.852591061 speed=0.23 thead=0 tdist=0
+time=1369999053 bhead=69 wind=239 lat=52.4159416667 lon=-4.06508333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=83.0 distance=324.637345139 speed=0.53 thead=0 tdist=0
+time=1369999054 bhead=70 wind=240 lat=52.41594 lon=-4.065105 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=157.0 whead=82.0 distance=326.588225368 speed=0.52 thead=0 tdist=0
+time=1369999055 bhead=69 wind=241 lat=52.4159383333 lon=-4.06512333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=158.0 whead=82.0 distance=328.068119417 speed=0.50 thead=0 tdist=0
+time=1369999057 bhead=84 wind=242 lat=52.41594 lon=-4.06513166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=168.0 whead=82.0 distance=329.32384181 speed=0.43 thead=0 tdist=0
+time=1369999058 bhead=80 wind=242 lat=52.4159416667 lon=-4.06514 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=329.861842932 speed=0.73 thead=0 tdist=0
+time=1369999059 bhead=82 wind=242 lat=52.4159416667 lon=-4.065155 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=83.0 distance=330.400030189 speed=0.74 thead=0 tdist=0
+time=1369999060 bhead=82 wind=241 lat=52.4159416667 lon=-4.06515666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=331.409153179 speed=0.75 thead=0 tdist=0
+time=1369999061 bhead=82 wind=241 lat=52.4159416667 lon=-4.06516333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=331.521273824 speed=0.66 thead=0 tdist=0
+time=1369999063 bhead=83 wind=241 lat=52.4159416667 lon=-4.06515833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=331.969797878 speed=0.52 thead=0 tdist=0
+time=1369999064 bhead=82 wind=241 lat=52.4159433333 lon=-4.06514666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=331.633410831 speed=0.64 thead=0 tdist=0
+time=1369999065 bhead=82 wind=241 lat=52.4159466667 lon=-4.06511333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=330.826274888 speed=0.24 thead=0 tdist=0
+time=1369999066 bhead=82 wind=240 lat=52.4159483333 lon=-4.0651 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=328.539285034 speed=0.36 thead=0 tdist=0
+time=1369999068 bhead=82 wind=240 lat=52.4159483333 lon=-4.06509166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=327.620090448 speed=0.31 thead=0 tdist=0
+time=1369999069 bhead=82 wind=240 lat=52.41595 lon=-4.06508166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=327.059404393 speed=0.35 thead=0 tdist=0
+time=1369999070 bhead=83 wind=240 lat=52.41595 lon=-4.06507333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=326.364471363 speed=0.38 thead=0 tdist=0
+time=1369999071 bhead=82 wind=239 lat=52.41595 lon=-4.06506166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=325.803751183 speed=0.35 thead=0 tdist=0
+time=1369999072 bhead=82 wind=239 lat=52.41595 lon=-4.06505833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=325.018823258 speed=0.34 thead=0 tdist=0
+time=1369999074 bhead=82 wind=239 lat=52.4159516667 lon=-4.06505333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=324.794542186 speed=0.32 thead=0 tdist=0
+time=1369999075 bhead=83 wind=238 lat=52.415955 lon=-4.06504833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=324.436002361 speed=0.37 thead=0 tdist=0
+time=1369999076 bhead=82 wind=238 lat=52.4159583333 lon=-4.06504333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=324.055573684 speed=0.39 thead=0 tdist=0
+time=1369999077 bhead=82 wind=237 lat=52.41596 lon=-4.06504333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=323.675462408 speed=0.32 thead=0 tdist=0
+time=1369999078 bhead=82 wind=237 lat=52.4159616667 lon=-4.06504333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=323.653776737 speed=0.22 thead=0 tdist=0
+time=1369999080 bhead=82 wind=236 lat=52.4159616667 lon=-4.065045 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=323.632214735 speed=0.24 thead=0 tdist=0
+time=1369999081 bhead=82 wind=236 lat=52.41596 lon=-4.06504666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=323.74440207 speed=0.12 thead=0 tdist=0
+time=1369999082 bhead=83 wind=236 lat=52.4159616667 lon=-4.06505 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=323.878139285 speed=0.24 thead=0 tdist=0
+time=1369999083 bhead=84 wind=236 lat=52.41596 lon=-4.06505333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=324.080939309 speed=0.22 thead=0 tdist=0
+time=1369999084 bhead=86 wind=236 lat=52.41596 lon=-4.065055 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=324.326828808 speed=0.10 thead=0 tdist=0
+time=1369999086 bhead=83 wind=237 lat=52.4159616667 lon=-4.065055 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=324.43899784 speed=0.19 thead=0 tdist=0
+time=1369999087 bhead=83 wind=238 lat=52.4159633333 lon=-4.06505666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=324.417488026 speed=0.22 thead=0 tdist=0
+time=1369999088 bhead=83 wind=238 lat=52.4159633333 lon=-4.06505833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=83.0 distance=324.508274431 speed=0.23 thead=0 tdist=0
+time=1369999089 bhead=82 wind=239 lat=52.4159633333 lon=-4.06505833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=324.620477788 speed=0.29 thead=0 tdist=0
+time=1369999090 bhead=81 wind=241 lat=52.4159633333 lon=-4.06506 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=324.620477788 speed=0.06 thead=0 tdist=0
+time=1369999092 bhead=83 wind=244 lat=52.4159633333 lon=-4.06505833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=324.732670086 speed=0.14 thead=0 tdist=0
+time=1369999093 bhead=83 wind=246 lat=52.415965 lon=-4.06505833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=176.0 whead=83.0 distance=324.620477788 speed=0.06 thead=0 tdist=0
+time=1369999094 bhead=82 wind=249 lat=52.415965 lon=-4.06505666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=324.599174055 speed=0.17 thead=0 tdist=0
+time=1369999095 bhead=82 wind=253 lat=52.415965 lon=-4.06505666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=324.486977198 speed=0.16 thead=0 tdist=0
+time=1369999096 bhead=82 wind=255 lat=52.415965 lon=-4.065055 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=180.0 whead=83.0 distance=324.486977198 speed=0.21 thead=0 tdist=0
+time=1369999098 bhead=82 wind=255 lat=52.4159633333 lon=-4.065055 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=324.374783145 speed=0.28 thead=0 tdist=0
+time=1369999099 bhead=82 wind=253 lat=52.4159633333 lon=-4.06505333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=324.396087745 speed=0.13 thead=0 tdist=0
+time=1369999100 bhead=82 wind=252 lat=52.4159666667 lon=-4.06505166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=324.283889996 speed=0.27 thead=0 tdist=0
+time=1369999101 bhead=82 wind=253 lat=52.4159683333 lon=-4.06505 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=324.129179886 speed=0.30 thead=0 tdist=0
+time=1369999102 bhead=82 wind=256 lat=52.4159683333 lon=-4.06504833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=323.995824031 speed=0.18 thead=0 tdist=0
+time=1369999104 bhead=82 wind=262 lat=52.4159683333 lon=-4.06504833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=323.88361265 speed=0.13 thead=0 tdist=0
+time=1369999105 bhead=82 wind=278 lat=52.41597 lon=-4.06504666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=323.88361265 speed=0.15 thead=0 tdist=0
+time=1369999106 bhead=82 wind=340 lat=52.41597 lon=-4.06504333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=0.0 rpos=178.0 whead=83.0 distance=323.7503919 speed=0.25 thead=0 tdist=0
+time=1369999107 bhead=82 wind=12 lat=52.4159716667 lon=-4.06504333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=54.0 rpos=176.0 whead=83.0 distance=323.52594076 speed=0.29 thead=0 tdist=0
+time=1369999108 bhead=82 wind=20 lat=52.4159733333 lon=-4.06504166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.505010003 speed=0.33 thead=0 tdist=0
+time=1369999110 bhead=82 wind=23 lat=52.4159733333 lon=-4.06504166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=83.0 distance=323.371939378 speed=0.10 thead=0 tdist=0
+time=1369999111 bhead=83 wind=26 lat=52.4159716667 lon=-4.06504 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.371939378 speed=0.30 thead=0 tdist=0
+time=1369999112 bhead=82 wind=27 lat=52.4159683333 lon=-4.06504 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.280569424 speed=0.10 thead=0 tdist=0
+time=1369999113 bhead=82 wind=28 lat=52.4159683333 lon=-4.06504 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.322569969 speed=0.16 thead=0 tdist=0
+time=1369999114 bhead=82 wind=29 lat=52.41597 lon=-4.06504 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.322569969 speed=0.21 thead=0 tdist=0
+time=1369999116 bhead=82 wind=29 lat=52.41597 lon=-4.06504166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.301514712 speed=0.18 thead=0 tdist=0
+time=1369999117 bhead=82 wind=30 lat=52.41597 lon=-4.06504166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.413733291 speed=0.11 thead=0 tdist=0
+time=1369999118 bhead=82 wind=30 lat=52.41597 lon=-4.06504333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.413733291 speed=0.11 thead=0 tdist=0
+time=1369999119 bhead=82 wind=30 lat=52.41597 lon=-4.06504333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.52594076 speed=0.10 thead=0 tdist=0
+time=1369999120 bhead=82 wind=30 lat=52.41597 lon=-4.06504333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=83.0 distance=323.52594076 speed=0.13 thead=0 tdist=0
+time=1369999122 bhead=82 wind=31 lat=52.41597 lon=-4.06504333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.52594076 speed=0.14 thead=0 tdist=0
+time=1369999123 bhead=82 wind=31 lat=52.41597 lon=-4.065045 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.52594076 speed=0.10 thead=0 tdist=0
+time=1369999124 bhead=82 wind=31 lat=52.4159666667 lon=-4.06504666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.638164934 speed=0.36 thead=0 tdist=0
+time=1369999125 bhead=82 wind=31 lat=52.415965 lon=-4.06504666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.792567727 speed=0.08 thead=0 tdist=0
+time=1369999126 bhead=82 wind=31 lat=52.415965 lon=-4.06504666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.813785579 speed=0.12 thead=0 tdist=0
+time=1369999128 bhead=82 wind=31 lat=52.415965 lon=-4.06504666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.813785579 speed=0.13 thead=0 tdist=0
+time=1369999129 bhead=83 wind=31 lat=52.415965 lon=-4.06504833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.813785579 speed=0.10 thead=0 tdist=0
+time=1369999130 bhead=82 wind=31 lat=52.4159616667 lon=-4.06504833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.925979479 speed=0.08 thead=0 tdist=0
+time=1369999131 bhead=82 wind=31 lat=52.4159616667 lon=-4.06504833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.968757409 speed=0.12 thead=0 tdist=0
+time=1369999133 bhead=82 wind=31 lat=52.4159616667 lon=-4.06504833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.968757409 speed=0.19 thead=0 tdist=0
+time=1369999134 bhead=82 wind=31 lat=52.41596 lon=-4.06504833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.968757409 speed=0.27 thead=0 tdist=0
+time=1369999135 bhead=82 wind=32 lat=52.4159583333 lon=-4.06504833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.990310901 speed=0.37 thead=0 tdist=0
+time=1369999136 bhead=82 wind=32 lat=52.4159566667 lon=-4.06504666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=324.011974048 speed=0.19 thead=0 tdist=0
+time=1369999137 bhead=82 wind=32 lat=52.4159566667 lon=-4.06504666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.921562475 speed=0.11 thead=0 tdist=0
+time=1369999139 bhead=82 wind=32 lat=52.4159566667 lon=-4.06504666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.921562475 speed=0.30 thead=0 tdist=0
+time=1369999140 bhead=82 wind=32 lat=52.415955 lon=-4.065045 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.921562475 speed=0.15 thead=0 tdist=0
+time=1369999141 bhead=82 wind=32 lat=52.4159533333 lon=-4.06504333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.8312646 speed=0.22 thead=0 tdist=0
+time=1369999142 bhead=82 wind=32 lat=52.4159533333 lon=-4.06504333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.741094414 speed=0.25 thead=0 tdist=0
+time=1369999143 bhead=82 wind=32 lat=52.4159516667 lon=-4.06504166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.741094414 speed=0.21 thead=0 tdist=0
+time=1369999145 bhead=82 wind=32 lat=52.4159516667 lon=-4.06504 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.651065926 speed=0.11 thead=0 tdist=0
+time=1369999146 bhead=82 wind=32 lat=52.4159516667 lon=-4.06503833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.538915758 speed=0.08 thead=0 tdist=0
+time=1369999147 bhead=82 wind=32 lat=52.4159516667 lon=-4.06503666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.426782348 speed=0.10 thead=0 tdist=0
+time=1369999148 bhead=82 wind=32 lat=52.4159516667 lon=-4.065035 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.31466571 speed=0.11 thead=0 tdist=0
+time=1369999149 bhead=82 wind=32 lat=52.4159516667 lon=-4.06503333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.202524102 speed=0.12 thead=0 tdist=0
+time=1369999151 bhead=82 wind=32 lat=52.4159516667 lon=-4.06503166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=323.090385347 speed=0.11 thead=0 tdist=0
+time=1369999152 bhead=82 wind=32 lat=52.4159516667 lon=-4.06503 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=322.97824945 speed=0.14 thead=0 tdist=0
+time=1369999153 bhead=83 wind=32 lat=52.4159516667 lon=-4.06502666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=322.866130348 speed=0.15 thead=0 tdist=0
+time=1369999154 bhead=82 wind=32 lat=52.4159516667 lon=-4.06502333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=322.641858929 speed=0.16 thead=0 tdist=0
+time=1369999155 bhead=82 wind=32 lat=52.4159516667 lon=-4.06502166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=322.417598967 speed=0.16 thead=0 tdist=0
+time=1369999157 bhead=82 wind=32 lat=52.4159516667 lon=-4.06502 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=322.30548027 speed=0.16 thead=0 tdist=0
+time=1369999158 bhead=82 wind=32 lat=52.41595 lon=-4.06501833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=322.193336521 speed=0.16 thead=0 tdist=0
+time=1369999159 bhead=82 wind=32 lat=52.41595 lon=-4.06501333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=322.103531949 speed=0.19 thead=0 tdist=0
+time=1369999160 bhead=82 wind=33 lat=52.41595 lon=-4.06501 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=321.767177805 speed=0.28 thead=0 tdist=0
+time=1369999162 bhead=82 wind=33 lat=52.4159516667 lon=-4.06500666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=321.542937472 speed=0.25 thead=0 tdist=0
+time=1369999163 bhead=82 wind=33 lat=52.415955 lon=-4.064985 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=321.296359814 speed=0.51 thead=0 tdist=0
+time=1369999164 bhead=82 wind=33 lat=52.4159566667 lon=-4.06495333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=319.794175809 speed=0.63 thead=0 tdist=0
+time=1369999165 bhead=82 wind=33 lat=52.4159533333 lon=-4.06494 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=317.641514851 speed=0.54 thead=0 tdist=0
+time=1369999166 bhead=82 wind=33 lat=52.41595 lon=-4.06493166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=178.0 whead=83.0 distance=316.789344643 speed=0.92 thead=0 tdist=0
+time=1369999168 bhead=82 wind=33 lat=52.4159466667 lon=-4.06492333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=316.274132225 speed=1.02 thead=0 tdist=0
+time=1369999169 bhead=82 wind=33 lat=52.4159433333 lon=-4.064915 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=315.759546812 speed=0.78 thead=0 tdist=0
+time=1369999170 bhead=82 wind=33 lat=52.4159266667 lon=-4.06491 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=82.0 distance=315.245577202 speed=0.51 thead=0 tdist=0
+time=1369999171 bhead=82 wind=33 lat=52.4159183333 lon=-4.06491 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=315.14785377 speed=0.36 thead=0 tdist=0
+time=1369999172 bhead=82 wind=33 lat=52.415915 lon=-4.06491166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=315.271123615 speed=0.23 thead=0 tdist=0
+time=1369999174 bhead=82 wind=33 lat=52.4159166667 lon=-4.06490833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=315.43304544 speed=0.55 thead=0 tdist=0
+time=1369999175 bhead=82 wind=33 lat=52.4159133333 lon=-4.064905 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=315.184171712 speed=0.42 thead=0 tdist=0
+time=1369999176 bhead=82 wind=33 lat=52.415905 lon=-4.0649 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=315.01066724 speed=0.44 thead=0 tdist=0
+time=1369999177 bhead=83 wind=33 lat=52.4159116667 lon=-4.0649 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=81.0 distance=314.802767276 speed=0.60 thead=0 tdist=0
+time=1369999178 bhead=82 wind=33 lat=52.4159166667 lon=-4.06490166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=314.700345617 speed=0.46 thead=0 tdist=0
+time=1369999180 bhead=83 wind=33 lat=52.4159216667 lon=-4.064905 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=314.736543653 speed=0.41 thead=0 tdist=0
+time=1369999181 bhead=83 wind=33 lat=52.41593 lon=-4.06490833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=314.885680823 speed=0.53 thead=0 tdist=0
+time=1369999182 bhead=82 wind=33 lat=52.415935 lon=-4.06492333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=314.987356586 speed=0.25 thead=0 tdist=0
+time=1369999183 bhead=82 wind=33 lat=52.4159333333 lon=-4.06493333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=315.923383046 speed=0.44 thead=0 tdist=0
+time=1369999185 bhead=82 wind=33 lat=52.4159333333 lon=-4.06494333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=316.619235049 speed=0.24 thead=0 tdist=0
+time=1369999186 bhead=82 wind=33 lat=52.4159316667 lon=-4.06495333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=317.291298803 speed=0.18 thead=0 tdist=0
+time=1369999187 bhead=83 wind=33 lat=52.4159316667 lon=-4.06496333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=317.987128739 speed=0.22 thead=0 tdist=0
+time=1369999188 bhead=82 wind=33 lat=52.41593 lon=-4.06498666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=318.659187919 speed=0.26 thead=0 tdist=0
+time=1369999189 bhead=83 wind=33 lat=52.41593 lon=-4.06499666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=320.251130209 speed=0.30 thead=0 tdist=0
+time=1369999191 bhead=82 wind=33 lat=52.4159283333 lon=-4.06500833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=320.923200963 speed=0.30 thead=0 tdist=0
+time=1369999192 bhead=82 wind=33 lat=52.4159283333 lon=-4.06502 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=321.731029603 speed=0.37 thead=0 tdist=0
+time=1369999193 bhead=82 wind=33 lat=52.4159266667 lon=-4.06503166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=322.515114574 speed=0.38 thead=0 tdist=0
+time=1369999194 bhead=82 wind=33 lat=52.415925 lon=-4.06505333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=323.322945694 speed=0.40 thead=0 tdist=0
+time=1369999195 bhead=82 wind=33 lat=52.415925 lon=-4.065065 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=324.802881411 speed=0.43 thead=0 tdist=0
+time=1369999197 bhead=82 wind=33 lat=52.4159233333 lon=-4.06507666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=325.58697567 speed=0.43 thead=0 tdist=0
+time=1369999198 bhead=82 wind=33 lat=52.4159233333 lon=-4.06508666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=326.394799318 speed=0.45 thead=0 tdist=0
+time=1369999199 bhead=82 wind=33 lat=52.4159216667 lon=-4.06511 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=327.066887997 speed=0.46 thead=0 tdist=0
+time=1369999200 bhead=82 wind=33 lat=52.41592 lon=-4.06512166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=328.65881903 speed=0.57 thead=0 tdist=0
+time=1369999201 bhead=82 wind=33 lat=52.4159183333 lon=-4.06513166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=329.466649044 speed=0.48 thead=0 tdist=0
+time=1369999203 bhead=82 wind=33 lat=52.4159183333 lon=-4.06514333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=330.162493154 speed=0.60 thead=0 tdist=0
+time=1369999204 bhead=82 wind=33 lat=52.4159183333 lon=-4.06515333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=330.946587085 speed=0.51 thead=0 tdist=0
+time=1369999205 bhead=82 wind=33 lat=52.4159166667 lon=-4.0652 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=331.618676695 speed=0.80 thead=0 tdist=0
+time=1369999206 bhead=82 wind=33 lat=52.4159116667 lon=-4.06523666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=334.778909191 speed=1.01 thead=0 tdist=0
+time=1369999207 bhead=82 wind=33 lat=52.4159116667 lon=-4.06523333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=337.314306286 speed=0.86 thead=0 tdist=0
+time=1369999209 bhead=82 wind=33 lat=52.4159166667 lon=-4.06521666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=337.090277577 speed=0.75 thead=0 tdist=0
+time=1369999210 bhead=82 wind=33 lat=52.4159183333 lon=-4.06523333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=335.899225403 speed=0.80 thead=0 tdist=0
+time=1369999211 bhead=82 wind=33 lat=52.4159283333 lon=-4.06523666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=82.0 distance=336.996245247 speed=0.64 thead=0 tdist=0
+time=1369999212 bhead=82 wind=33 lat=52.4159183333 lon=-4.06523833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=337.082375813 speed=0.61 thead=0 tdist=0
+time=1369999213 bhead=82 wind=33 lat=52.41591 lon=-4.065225 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=337.33239288 speed=0.49 thead=0 tdist=0
+time=1369999215 bhead=82 wind=33 lat=52.4159066667 lon=-4.06522833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=336.554005547 speed=0.84 thead=0 tdist=0
+time=1369999216 bhead=82 wind=33 lat=52.4159016667 lon=-4.065235 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=336.825854942 speed=1.29 thead=0 tdist=0
+time=1369999217 bhead=82 wind=33 lat=52.415875 lon=-4.06524 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=82.0 distance=337.346290622 speed=1.90 thead=0 tdist=0
+time=1369999218 bhead=82 wind=34 lat=52.4158433333 lon=-4.06525166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=81.0 distance=338.083384203 speed=3.68 thead=0 tdist=0
+time=1369999219 bhead=82 wind=35 lat=52.4158233333 lon=-4.06526 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=81.0 distance=339.374556588 speed=3.53 thead=0 tdist=0
+time=1369999221 bhead=82 wind=36 lat=52.4158083333 lon=-4.06524333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=81.0 distance=340.27179687 speed=2.78 thead=0 tdist=0
+time=1369999222 bhead=82 wind=37 lat=52.4157883333 lon=-4.065235 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=339.420451222 speed=1.99 thead=0 tdist=0
+time=1369999223 bhead=82 wind=37 lat=52.4157316667 lon=-4.06526666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=339.228506188 speed=2.49 thead=0 tdist=0
+time=1369999224 bhead=82 wind=38 lat=52.415735 lon=-4.06526 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=342.449404248 speed=0.88 thead=0 tdist=0
+time=1369999226 bhead=82 wind=38 lat=52.4157433333 lon=-4.06523666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=341.937169936 speed=1.24 thead=0 tdist=0
+time=1369999227 bhead=82 wind=39 lat=52.4157516667 lon=-4.06521 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=340.213361091 speed=1.29 thead=0 tdist=0
+time=1369999228 bhead=82 wind=40 lat=52.4157533333 lon=-4.06520833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=338.268477364 speed=1.51 thead=0 tdist=0
+time=1369999229 bhead=82 wind=40 lat=52.4157733333 lon=-4.06520333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=338.124078262 speed=0.89 thead=0 tdist=0
+time=1369999230 bhead=82 wind=41 lat=52.4157733333 lon=-4.06521 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=337.398195357 speed=1.36 thead=0 tdist=0
+time=1369999232 bhead=82 wind=41 lat=52.41578 lon=-4.06521 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=337.843125553 speed=1.62 thead=0 tdist=0
+time=1369999233 bhead=82 wind=42 lat=52.415765 lon=-4.06521166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=337.715611386 speed=1.47 thead=0 tdist=0
+time=1369999234 bhead=82 wind=42 lat=52.4157583333 lon=-4.06522666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=338.115961133 speed=2.36 thead=0 tdist=0
+time=1369999235 bhead=83 wind=43 lat=52.4157516667 lon=-4.06521666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=184.0 whead=79.0 distance=339.247313007 speed=0.31 thead=0 tdist=0
+time=1369999236 bhead=82 wind=43 lat=52.4157566667 lon=-4.06522166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=338.712888689 speed=1.26 thead=0 tdist=0
+time=1369999238 bhead=82 wind=44 lat=52.4157366667 lon=-4.06523833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=338.946796375 speed=1.29 thead=0 tdist=0
+time=1369999239 bhead=82 wind=44 lat=52.4157316667 lon=-4.06526 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=340.459836694 speed=2.11 thead=0 tdist=0
+time=1369999240 bhead=82 wind=45 lat=52.4157216667 lon=-4.06531 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=342.005375353 speed=1.83 thead=0 tdist=0
+time=1369999241 bhead=82 wind=45 lat=52.415715 lon=-4.065315 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=345.540979391 speed=1.38 thead=0 tdist=0
+time=1369999242 bhead=82 wind=45 lat=52.4157216667 lon=-4.06532333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=346.01230417 speed=1.20 thead=0 tdist=0
+time=1369999244 bhead=82 wind=46 lat=52.4157266667 lon=-4.065345 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=346.428807697 speed=2.40 thead=0 tdist=0
+time=1369999245 bhead=82 wind=46 lat=52.4157233333 lon=-4.06538333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=347.769522653 speed=2.30 thead=0 tdist=0
+time=1369999246 bhead=82 wind=47 lat=52.4157216667 lon=-4.06541166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=350.391189954 speed=1.27 thead=0 tdist=0
+time=1369999247 bhead=82 wind=47 lat=52.4157283333 lon=-4.06542 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=352.312777796 speed=0.62 thead=0 tdist=0
+time=1369999248 bhead=82 wind=47 lat=52.41573 lon=-4.065405 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=352.733895751 speed=0.64 thead=0 tdist=0
+time=1369999250 bhead=82 wind=48 lat=52.4157133333 lon=-4.06542166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=351.700656647 speed=0.52 thead=0 tdist=0
+time=1369999251 bhead=82 wind=48 lat=52.41571 lon=-4.06541666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=353.148880301 speed=0.67 thead=0 tdist=0
+time=1369999252 bhead=81 wind=49 lat=52.4157083333 lon=-4.06539833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=352.884492892 speed=1.56 thead=0 tdist=0
+time=1369999253 bhead=82 wind=50 lat=52.4157016667 lon=-4.065405 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=351.698353911 speed=1.21 thead=0 tdist=0
+time=1369999255 bhead=82 wind=51 lat=52.4157016667 lon=-4.06541333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=352.281245497 speed=1.40 thead=0 tdist=0
+time=1369999256 bhead=82 wind=52 lat=52.415695 lon=-4.06542166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=184.0 whead=79.0 distance=352.835848207 speed=2.16 thead=0 tdist=0
+time=1369999257 bhead=81 wind=53 lat=52.4156883333 lon=-4.06541666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=353.530582537 speed=1.93 thead=0 tdist=0
+time=1369999258 bhead=83 wind=54 lat=52.41567 lon=-4.06534 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=78.0 distance=353.339693826 speed=2.02 thead=0 tdist=0
+time=1369999259 bhead=82 wind=55 lat=52.4156683333 lon=-4.06532166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=78.0 distance=348.64594632 speed=1.21 thead=0 tdist=0
+time=1369999261 bhead=82 wind=56 lat=52.4156733333 lon=-4.06531166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=78.0 distance=347.466315473 speed=0.41 thead=0 tdist=0
+time=1369999262 bhead=82 wind=57 lat=52.4156916667 lon=-4.06528333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=78.0 distance=346.69060409 speed=0.48 thead=0 tdist=0
+time=1369999263 bhead=82 wind=58 lat=52.4157116667 lon=-4.06525666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=78.0 distance=344.404252414 speed=0.81 thead=0 tdist=0
+time=1369999264 bhead=82 wind=59 lat=52.41572 lon=-4.06525666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=78.0 distance=342.200956316 speed=0.77 thead=0 tdist=0
+time=1369999265 bhead=82 wind=60 lat=52.415735 lon=-4.06522833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=342.025266038 speed=0.92 thead=0 tdist=0
+time=1369999267 bhead=82 wind=61 lat=52.4157466667 lon=-4.06521666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=339.827914866 speed=0.38 thead=0 tdist=0
+time=1369999268 bhead=82 wind=62 lat=52.4157783333 lon=-4.065225 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=338.813283615 speed=0.90 thead=0 tdist=0
+time=1369999269 bhead=83 wind=63 lat=52.4157816667 lon=-4.06526833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=338.748805307 speed=1.21 thead=0 tdist=0
+time=1369999270 bhead=82 wind=64 lat=52.41579 lon=-4.06526666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=341.579803274 speed=1.27 thead=0 tdist=0
+time=1369999271 bhead=82 wind=65 lat=52.415805 lon=-4.06526666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=341.313480408 speed=0.45 thead=0 tdist=0
+time=1369999273 bhead=82 wind=66 lat=52.4158183333 lon=-4.065265 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=341.040722623 speed=0.55 thead=0 tdist=0
+time=1369999274 bhead=82 wind=67 lat=52.4158316667 lon=-4.06526666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=340.693350571 speed=0.17 thead=0 tdist=0
+time=1369999275 bhead=82 wind=68 lat=52.4158366667 lon=-4.06524833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=81.0 distance=340.575345408 speed=0.45 thead=0 tdist=0
+time=1369999276 bhead=82 wind=69 lat=52.41582 lon=-4.06524666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=184.0 whead=81.0 distance=339.262843099 speed=1.41 thead=0 tdist=0
+time=1369999277 bhead=82 wind=71 lat=52.4158133333 lon=-4.06524333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=339.437285654 speed=1.41 thead=0 tdist=0
+time=1369999279 bhead=82 wind=72 lat=52.4158083333 lon=-4.06524 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=339.331466721 speed=1.41 thead=0 tdist=0
+time=1369999280 bhead=82 wind=73 lat=52.4158016667 lon=-4.06525333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=184.0 whead=80.0 distance=339.197521735 speed=0.39 thead=0 tdist=0
+time=1369999281 bhead=82 wind=74 lat=52.4157966667 lon=-4.06524 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=184.0 whead=80.0 distance=340.209102649 speed=1.83 thead=0 tdist=0
+time=1369999282 bhead=82 wind=75 lat=52.41581 lon=-4.065235 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=339.408719649 speed=0.98 thead=0 tdist=0
+time=1369999283 bhead=82 wind=76 lat=52.4158183333 lon=-4.065235 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=184.0 whead=80.0 distance=338.833295293 speed=0.90 thead=0 tdist=0
+time=1369999285 bhead=82 wind=77 lat=52.41582 lon=-4.065235 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=338.685736173 speed=0.84 thead=0 tdist=0
+time=1369999286 bhead=82 wind=78 lat=52.415815 lon=-4.06522666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=338.656522205 speed=1.11 thead=0 tdist=0
+time=1369999287 bhead=82 wind=79 lat=52.4158233333 lon=-4.06521833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=338.186932842 speed=1.07 thead=0 tdist=0
+time=1369999288 bhead=82 wind=80 lat=52.415825 lon=-4.06520333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=337.482863489 speed=1.02 thead=0 tdist=0
+time=1369999290 bhead=82 wind=81 lat=52.4158266667 lon=-4.065185 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=336.449900854 speed=1.26 thead=0 tdist=0
+time=1369999291 bhead=82 wind=82 lat=52.4158133333 lon=-4.06520166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=335.1938273 speed=1.24 thead=0 tdist=0
+time=1369999292 bhead=82 wind=82 lat=52.415805 lon=-4.06521166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=80.0 distance=336.544219527 speed=1.37 thead=0 tdist=0
+time=1369999293 bhead=82 wind=83 lat=52.4157883333 lon=-4.06525333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=337.362855128 speed=0.55 thead=0 tdist=0
+time=1369999294 bhead=82 wind=83 lat=52.415785 lon=-4.06521833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=340.453400774 speed=0.11 thead=0 tdist=0
+time=1369999296 bhead=82 wind=84 lat=52.4157883333 lon=-4.06524333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=338.1775666 speed=0.25 thead=0 tdist=0
+time=1369999297 bhead=82 wind=84 lat=52.4157866667 lon=-4.06525 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=339.785266497 speed=0.41 thead=0 tdist=0
+time=1369999298 bhead=82 wind=85 lat=52.415775 lon=-4.06529166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=340.261681415 speed=0.35 thead=0 tdist=0
+time=1369999299 bhead=82 wind=85 lat=52.415775 lon=-4.06531666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=343.263630083 speed=0.96 thead=0 tdist=0
+time=1369999300 bhead=82 wind=86 lat=52.41577 lon=-4.06534166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=344.933276337 speed=0.82 thead=0 tdist=0
+time=1369999302 bhead=82 wind=86 lat=52.4157466667 lon=-4.06535333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=80.0 distance=346.697131867 speed=0.96 thead=0 tdist=0
+time=1369999303 bhead=81 wind=87 lat=52.4157333333 lon=-4.06535333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=347.925100683 speed=1.46 thead=0 tdist=0
+time=1369999304 bhead=82 wind=87 lat=52.415715 lon=-4.06535333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=348.189971685 speed=1.26 thead=0 tdist=0
+time=1369999305 bhead=82 wind=88 lat=52.415705 lon=-4.065355 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=180.0 whead=79.0 distance=348.56414467 speed=1.51 thead=0 tdist=0
+time=1369999306 bhead=82 wind=88 lat=52.4157033333 lon=-4.06534166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=348.883962801 speed=1.53 thead=0 tdist=0
+time=1369999308 bhead=82 wind=88 lat=52.415705 lon=-4.06532166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=348.032055787 speed=1.44 thead=0 tdist=0
+time=1369999309 bhead=82 wind=89 lat=52.4157016667 lon=-4.06531666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=346.666256863 speed=1.48 thead=0 tdist=0
+time=1369999310 bhead=82 wind=89 lat=52.4157033333 lon=-4.06529666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=78.0 distance=346.404545978 speed=0.74 thead=0 tdist=0
+time=1369999311 bhead=82 wind=90 lat=52.415705 lon=-4.06528333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=78.0 distance=345.03885078 speed=0.17 thead=0 tdist=0
+time=1369999312 bhead=82 wind=90 lat=52.4157016667 lon=-4.06527666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=78.0 distance=344.116542124 speed=0.50 thead=0 tdist=0
+time=1369999314 bhead=82 wind=90 lat=52.4157 lon=-4.06526 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=78.0 distance=343.744635187 speed=0.32 thead=0 tdist=0
+time=1369999315 bhead=82 wind=91 lat=52.4157066667 lon=-4.06524833333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=78.0 distance=342.672542194 speed=0.31 thead=0 tdist=0
+time=1369999316 bhead=82 wind=91 lat=52.4157133333 lon=-4.06525333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=78.0 distance=341.753392306 speed=0.78 thead=0 tdist=0
+time=1369999317 bhead=82 wind=91 lat=52.41572 lon=-4.06522666667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=341.943880563 speed=0.34 thead=0 tdist=0
+time=1369999319 bhead=82 wind=92 lat=52.41573 lon=-4.0652 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=340.028876728 speed=0.66 thead=0 tdist=0
+time=1369999320 bhead=81 wind=92 lat=52.41574 lon=-4.06518333333 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=338.04472164 speed=0.96 thead=0 tdist=0
+time=1369999321 bhead=82 wind=92 lat=52.4157566667 lon=-4.065165 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=184.0 whead=79.0 distance=336.728207922 speed=0.81 thead=0 tdist=0
+time=1369999322 bhead=83 wind=93 lat=52.41576 lon=-4.06518166667 nwlat=52.4163 nwlon=-4.0603 nwn=0.0 spos=72.0 rpos=182.0 whead=79.0 distance=335.16875232 speed=1.42 thead=0 tdist=0
+
